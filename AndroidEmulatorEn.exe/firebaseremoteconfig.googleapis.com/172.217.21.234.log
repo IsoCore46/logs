@@ -4,3 +4,6 @@
 2026-02-20T02:37:00.953 PID=579380 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS
 2026-02-20T13:22:43.932 PID=17252 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS
 2026-02-20T17:43:25.214 PID=120532 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS
+2026-02-21T20:24:10.900 PID=279020 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS
+2026-02-21T23:10:29.417 PID=394856 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS
+2026-02-22T15:08:21.452 PID=638820 PROC=AndroidEmulatorEn.exe DOMAIN=firebaseremoteconfig.googleapis.com IP=172.217.21.234 SRC=DNS

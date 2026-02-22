@@ -5,3 +5,6 @@
 2026-02-20T13:22:46.919 PID=17252 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS
 2026-02-20T17:43:27.082 PID=120532 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS
 2026-02-20T19:29:23.944 PID=189096 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS
+2026-02-21T17:57:43.951 PID=279020 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS
+2026-02-21T23:10:31.402 PID=394856 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS
+2026-02-22T15:08:21.613 PID=638820 PROC=AndroidEmulatorEn.exe DOMAIN=android.crashsight.wetest.net IP=43.153.253.176 SRC=DNS

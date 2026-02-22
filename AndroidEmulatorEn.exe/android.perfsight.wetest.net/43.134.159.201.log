@@ -5,3 +5,6 @@
 2026-02-20T13:22:49.920 PID=17252 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
 2026-02-20T17:43:32.055 PID=120532 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
 2026-02-20T19:29:27.953 PID=189096 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
+2026-02-21T17:57:48.152 PID=279020 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
+2026-02-21T23:10:34.820 PID=394856 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
+2026-02-22T15:08:21.677 PID=638820 PROC=AndroidEmulatorEn.exe DOMAIN=android.perfsight.wetest.net IP=43.134.159.201 SRC=DNS
